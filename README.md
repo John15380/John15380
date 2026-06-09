@@ -4,17 +4,25 @@
 
 My Repository:
 
-- Course Project: 课程项目代码
-  - 量化投资
-  - 面向对象程序设计
-  - 数值代数
-  - 智能优化与仿真
-  - 非结构化数据分析与应用
+- Course Project: 课程仓库
+  - [量化投资]()
+  - [面向对象程序设计]()
+  - [数值代数]()
+  - [智能优化与仿真]()
+  - [非结构化数据分析与应用]()
+  - [人工智能与数学软件]()
+  - [应用运筹学]()
+  - [其他]()
 
-- Competition: 数学建模比赛
-  - ZJUMCM2025
-  - CUMCM2025
-  - ZJUMCM2026
+- Competition: 比赛项目
+  - [ZJUMCM2025]()
+  - [CUMCM2025]()
+  - [ZJUMCM2026]()
+
+- Research: 科研项目
+  - [AIM Lab]()
+  - [Fin-DRL]()
+  - [SRTP]()
 
 
 <!---
