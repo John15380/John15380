@@ -9,6 +9,16 @@ My Repository:
 - Research: AIM Lab []()、Fin-DRL []()、SRTP-ZJUSAA []()
 - Notes：数据结构和算法
 
+<h2 align="center">🧩 LeetCode Progress</h2>
+
+<p align="center">
+  <a href="https://leetcode.cn/u/zjujohn/">
+    <img
+      src="https://leetcard.jacoblin.cool/zjujohn?site=cn&theme=light&ext=heatmap"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
 <!---
 ZJUjohn/ZJUjohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
