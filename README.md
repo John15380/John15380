@@ -14,7 +14,7 @@ My Repository:
 <p align="center">
   <a href="https://leetcode.cn/u/zjujohn/">
     <img
-      src="https://leetcard.jacoblin.cool/zjujohn?site=cn&theme=light&ext=heatmap"
+      src="https://leetcard.jacoblin.cool/zjujohn?site=cn&theme=light"
       alt="LeetCode Stats"
     />
   </a>
